@@ -211,4 +211,4 @@ AstroSynthesis is available as a full free version with all features and updates
 Unlock your creativity and explore new worlds with AstroSynthesis! Download your free copy today and start crafting unique universes for your RPG adventures!
 
 ---
-**Last updated:** 2026-09-22 09:11:42 UTC
+**Last updated:** 2026-09-22 14:27:28 UTC
